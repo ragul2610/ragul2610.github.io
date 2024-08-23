@@ -16,14 +16,7 @@ body {
   position: relative;
   background: transparent;
 }
-.box{
-  display: flex;
-}
 
-#res{
-  margin-left: 600px;
-  margin-top: -30px;
-}
 #face{
   border-radius: 50px;
 }
